@@ -1,5 +1,5 @@
 <html>
-<body background="duvarr.jpg">
+<body background="duvar.jpg">
 <link rel="stylesheet" href="alim.css" >
 <?php
 

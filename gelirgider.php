@@ -1,6 +1,6 @@
 <html>
-<body background="duvarr.jpg">
-<link rel="stylesheet" href="gelırgıder.css" >
+<body background="duvar.jpg">
+<link rel="stylesheet" href="gelirgider.css" >
 <?php
 
 

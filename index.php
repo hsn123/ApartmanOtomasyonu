@@ -1,5 +1,5 @@
 <html>
-<body background="duvarr.jpg">
+<body background="duvar.jpg">
 <link rel="stylesheet" href="index.css" >
 <?php
 if(isset($_POST["ekle"])&&isset($_POST["adsyd"])&&isset($_POST["aidat"]))
